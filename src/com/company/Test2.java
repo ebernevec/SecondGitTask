@@ -1,7 +1,8 @@
 package com.company;
 
 public class Test2 {
-    void myClass{
-        System.out.println("Hellos Second Branch");
+    /* comment from Test2 */
+    void Cat(){
+        System.out.println("Hello Cat");
     }
 }
